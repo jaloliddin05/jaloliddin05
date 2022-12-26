@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaloliddin</h1>
 <h3 align="center">backend developer</h3>
 
+<div>
+  <a href="https://github.com/jaloliddin05">
+   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaloliddin05&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=jaloliddin05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaloliddin-nasrullayev-a87982241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaloliddin-nasrullayev-a87982241" height="30" width="40" /></a>
