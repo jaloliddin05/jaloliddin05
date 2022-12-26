@@ -7,7 +7,7 @@
   <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=jaloliddin05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jaloliddin-nasrullayev-a87982241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaloliddin-nasrullayev-a87982241" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jaloliddin05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaloliddin05" height="30" width="40" /></a>
